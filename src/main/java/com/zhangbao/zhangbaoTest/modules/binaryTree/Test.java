@@ -1,9 +1,6 @@
 package com.zhangbao.zhangbaoTest.modules.binaryTree;
 
-import cn.hutool.core.util.StrUtil;
-import io.netty.util.internal.StringUtil;
 import lombok.Data;
-import sun.reflect.generics.tree.Tree;
 
 import java.util.ArrayList;
 import java.util.List;
